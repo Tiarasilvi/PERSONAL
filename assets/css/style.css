@@ -1,0 +1,22 @@
+html, body {
+    width: 100%;
+    height: 100%;
+   
+}
+
+.home {
+    width: 100%;
+    height: 100%;
+}
+
+.home .teks{
+    margin-top: 48vh;
+    border-left: 3px  solid #000;
+    padding-left: 15px;
+    padding-top: 50px;
+    color: blueviolet;
+}
+
+.abu{
+    color: rgb(red, green, rgb(126, 126, 163));
+}
